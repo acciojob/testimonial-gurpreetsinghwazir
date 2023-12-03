@@ -4,6 +4,7 @@ body{
 }
 #main, #main2{
 	padding: 30px;
+	font-style: normal;
 	width: 90%;
 	height: 30px;
 	border: 1px solid grey;
