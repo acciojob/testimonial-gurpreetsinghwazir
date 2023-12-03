@@ -9,7 +9,7 @@ body{
 	border: 1px solid grey;
 	background-color: white;
 }
-#c1{
+#c1, #c2{
 	font-style: italic;
 	text-align: right;
 	
